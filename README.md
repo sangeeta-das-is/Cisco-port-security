@@ -1,3 +1,4 @@
+
 # Cisco Port Security Lab
 
 ## Projektziel
@@ -130,3 +131,7 @@ Die Tests haben gezeigt, dass:
 - die Netzwerksicherheit durch Port Security deutlich erhöht wird.
 
 Das Projekt demonstriert den praktischen Einsatz von Cisco Port Security in Unternehmensnetzwerken.
+=======
+# Cisco-port-security
+Cisco Packet Tracer project demonstrating Port Security configuration and testing on a switch.
+>>>>>>> d7335fc25c9de6e7d585887e2b9152b5c844a9e5
